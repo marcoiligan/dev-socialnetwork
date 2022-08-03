@@ -1,4 +1,4 @@
-from tkinter.tix import Balloon
+#from tkinter.tix import Balloon
 from django.db import models
 from django.contrib.auth.models import User
 import uuid
