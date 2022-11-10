@@ -9,14 +9,10 @@ djangorestframework-simplejwt==5.2.0
 filelock==3.7.1
 gunicorn==20.1.0
 jmespath==1.0.1
-mysql-client==0.0.1
-mysqlclient==2.1.1
 Pillow==9.2.0
 platformdirs==2.5.2
-psycopg2-binary==2.9.3
 pygame==2.1.2
 PyJWT==2.4.0
-PyMySQL==1.0.2
 python-dateutil==2.8.2
 pytz==2022.1
 s3transfer==0.6.0
