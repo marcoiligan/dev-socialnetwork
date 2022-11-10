@@ -1,3 +1,4 @@
+psycopg2-binary==2.9.3
 asgiref==3.5.2
 boto3==1.24.44
 botocore==1.27.44
@@ -14,6 +15,7 @@ platformdirs==2.5.2
 pygame==2.1.2
 PyJWT==2.4.0
 python-dateutil==2.8.2
+python-dotenv==0.21.0
 pytz==2022.1
 s3transfer==0.6.0
 six==1.16.0
